@@ -1,28 +1,25 @@
-# Super Store Dashboard
-This project consists of an excel dashboard on the Super Store data. Concepts like Excel functions, Pivot Tables, Excel charts, etc were used in this.
-Along with the dashboard, it presents some business insights in a report created on a separate worksheet.
+# Super Store Dashboard Project
+This project involves creating an Excel dashboard for analyzing the Super Store data. It utilizes various Excel functionalities, including advanced Excel functions, Pivot Tables, and data visualizations, to derive key insights. Additionally, a separate worksheet provides a detailed report highlighting business insights and strategic recommendations.
 
-### Business Problem - 
-Find 3 Key Findings and 3 Key Solutions to increase the Sales in Super Store.
-
-### How to read the Excel file - 
-The first tab of the excel file contains the dashboard which displays various charts and vizuals. 
-The second tab of the file has the report with key findings and suggestions.
-Rest of the tabs have additional information referred by the second tab.
+### Business Objective
+Identify 3 Key Findings and propose 3 Solutions to boost sales for Super Store.
 
 ### The DASHBOARD
 <img width="398" alt="SuperStoreDashboard" src="https://user-images.githubusercontent.com/54446705/205509161-c4bf98dd-37e7-415a-afc2-bf19d20fadcf.png">
 
-### The REPORT
-#### Findings
-- Super Store is giving a lot of discounts on Binders, despite it already being one of their top selling products in all the customer segments across all regions.
-- Super Store is spending too much of their discount budget on their stores in Central region. Stores especially in Southern region are comparatively lacking in discounts.
-- Only one product was sold in 50.65% of the total orders. 
-- Delivery duration in Central region is comparatively slow. Average delivery in Central region takes 0.21 days more for Home Office consumers than overall delivery duration average for the same. 
 
-#### Suggestions
-- Discounts should be reduced from Binders (Sub-category) or Office supplies (Category) in general, as they have decent enough sales. Discount budget should be disbursed to the stores in Southern region for sales spree to attract customer attention. 
-- In case of their online stores, investment shall be made on machine learning techniques so that people buying only one product from a category shall be recommended with other related products from that same category. 
-- In case of offline stores, Super Store shall invest in Planograms (Product Display). More information about how planograms leading to improved sales can be found in the referred link.
-- Delivery duration should be reduced in the stores in Central region by introducing ship mode upgrades wherever it's possible. Decreased delivery duration may lead to increase in sales. 
+### The Report
+#### Key Findings
+1. **Discount Management**: Super Store applies significant discounts on Binders, even though they are consistently one of the top-selling products across all customer segments and regions. This suggests potential overuse of discounting strategies on already popular items.
+2. **Regional Discount Allocation**: A substantial portion of the discount budget is spent on stores in the Central region, leading to a disparity. Stores in the Southern region receive fewer discounts, potentially affecting sales performance.
+3. **Single-Item Purchases**: Over half (50.65%) of the orders consist of only one product. This indicates that customers are not frequently engaging in multi-item purchases, possibly missing opportunities for cross-selling or upselling.
+4. **Delivery Efficiency**: The Central region shows a longer average delivery duration, particularly for Home Office consumers. Deliveries in this region take about 0.21 days longer than the overall average, which could impact customer satisfaction.
 
+#### Recommendations
+1. **Optimize Discount Strategy**: Reduce discounts on Binders and other high-selling Office Supplies. Instead, reallocate the discount budget to stores in the Southern region to stimulate sales growth there. This approach can ensure balanced sales performance across all regions.
+2. **Leverage Recommendation Systems**: For online sales, invest in machine learning algorithms to recommend complementary products. When a customer buys a single item, suggest related products that can encourage them to make additional purchases, thereby increasing the average order value.
+3. **Enhance Product Display (Planograms)**: For offline stores, implement effective product display strategies using Planograms. These displays can attract customer attention and encourage multi-item purchases. Refer to successful case studies to see how visual merchandising can improve sales.
+4. **Upgrade Shipping Options**: Improve delivery times in the Central region by introducing faster shipping options or partnering with efficient carriers. Reduced delivery duration can enhance customer experience and potentially increase repeat sales.
+
+### Conclusion
+The Super Store Dashboard project effectively analyzes sales data and identifies areas that can lead to business growth through strategic adjustments. By optimizing discount allocation, investing in recommendation systems, enhancing product displays, and improving delivery services, Super Store can significantly increase its sales performance and customer satisfaction. The proposed solutions are designed to leverage existing strengths while addressing critical areas of improvement, providing a roadmap for sustained business success.
